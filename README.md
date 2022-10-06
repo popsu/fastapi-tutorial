@@ -16,7 +16,7 @@ Run (exposed on port 8080):
 make run
 ```
 
-Push (to GHCR io):
+Push (to ghcr.io):
 
 ```shell
 # login to ghcr.io using $GITHUB_GHCR_PAT as token
